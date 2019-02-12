@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The pondered life - setting the quest
 
 ---
