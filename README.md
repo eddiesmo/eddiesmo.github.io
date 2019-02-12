@@ -42,5 +42,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   [post.title]({{ post.url }}{{ post.title }})
   {% endfor %}
 
-  [The pondered life]({{ site.baseurl }}{% 	2015-11-18-the-pondered-life-setting-the-quest.md %})
+  [The pondered life]({{ site.baseurl }}2015-11-18-the-pondered-life-setting-the-quest.md)
 
