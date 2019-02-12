@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The pondered life - setting the quest
+permalink: /first-page/
 ---
 
 > “The unexamined life is not worth living”
