@@ -39,8 +39,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Testing
 
   {% for post in site.posts %}
-  [post.title]({{ post.url }}{{ post.title }})
-  {% endfor %}
+  [{{ post.title }}] ({{ post.url }})
+  {% endfor %}		
 
   [The pondered life]({{ site.baseurl }}2015-11-18-the-pondered-life-setting-the-quest.md)
 
