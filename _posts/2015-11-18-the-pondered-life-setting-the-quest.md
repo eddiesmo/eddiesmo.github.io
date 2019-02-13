@@ -4,9 +4,7 @@ comments: true
 
 ---
 
-# The pondered life - setting the quest
-
-> The unexamined life is not worth living
+> The unexamined life is not worth living\
 > – Socrates
 
 It is a universal trait, I believe, to reflect and evaluate. We strive to do so in our jobs, in our schools, and at least once a year on holidays. But do we do it enough where it really counts? Do we examine the big, important things? It is my observation that most of us lose sight of the forest for the trees.
@@ -22,10 +20,10 @@ The unconsidered life is without thought or direction. It is heavily dependent o
 
 I picture a man in a boat, without a map. He doesn’t know where he is, nor where he is going. He is lost, aimless, and will arrive wherever the current takes him. Should fortune smile upon him, his ride will be enjoyable and his destination worthwhile. However, it could just as easily not be the case and he, in fact, lacks the tools to even make the distinction.
 
-> Alice: Which way should I go?
-> Cat: That depends on where you are going.
-> Alice: I don’t know.
-> Cat: Then it doesn’t matter which way you go.”
+> Alice: Which way should I go?\
+> Cat: That depends on where you are going.\
+> Alice: I don’t know.\
+> Cat: Then it doesn’t matter which way you go.”\
 > ― Lewis Carroll, Alice in Wonderland
 
 Pondering life is creating a map to it. It doesn’t have to be very precise, but an improved grasp of the surrounding world and our own inner workings instills a better sense of the desirable places to visit and how to get there. The effects of the current would still be felt, but armed with the insight and the tools for steering, we gain a measure of control over our own destiny.
@@ -34,7 +32,7 @@ Is the considered life better than its counterpart?
 
 One thing that I cannot say is that this is the sure way to happiness. Ignorance can be bliss indeed. For some, it is easy and convenient to get carried along by the current, let it lead them anywhere and blame it for both fortune and misfortune, or adopt a passive “such is life” stance and enjoy the ride whatever it is. For others, closing their eyes to the possibilities slowly engenders a vague sense of dissatisfaction.
 
-> “You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes.“
+> “You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes.“\
 > ― Morpheus, to Neo, The Matrix
 
 Those who have observed people dying, often witnessed a more thorough examination of life than is typical. It seems that when the clock is running out, the noise of daily life finally dissipates enough for some honest self-reflection. It is debatable whether said reflection is objective at this stage, due to distortions in memory and other psychological and logical biases, but some regrets are unsurprisingly common:
@@ -45,7 +43,7 @@ Some of these seem awfully easy to fix, don’t they?
 
 This begs the question of whether the same conscious, contemplative process couldn’t have been employed earlier, leading to a more fulfilled life, which in turn could result in a more content death.
 
-> “Most people would sooner die than think; in fact, they do so.”
+> “Most people would sooner die than think; in fact, they do so.”\
 > – Berrand Russel
 
 Luckily, we don’t have to choose between thinking and death. We just have to set aside time in our daily routine to ask some of the truly important questions, and think, really think whether our actions and decisions correspond to the answers. We are not alone in this endeavor; Intrinsic to the internet, we have access to the inclusive, ongoing conversation of humanity at our fingertips. There is more than enough to read, learn and explore. The quest is set.
