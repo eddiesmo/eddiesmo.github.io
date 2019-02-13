@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 title: [Eddie Smolyansky]
 description: [Enjoying life through a rational lense]
 github:
-  is_project_page: false
+  is_project_page: [false]
 google_analytics: [UA-134424538-1]
