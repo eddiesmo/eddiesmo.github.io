@@ -47,6 +47,9 @@ theme: minima
 disqus:
   shortname: eddiesmo
 
+google_analytics: UA-134424538-1
+
+
 
 plugins:
  - jekyll-feed
