@@ -1,6 +1,8 @@
-theme: jekyll-theme-minima
+# theme: jekyll-theme-slate
+remote_theme: "mmistakes/so-simple-theme"
 title: [Eddie Smolyansky]
 description: [Enjoying life through a rational lense]
 github:
   is_project_page: [false]
 google_analytics: [UA-134424538-1]
+
