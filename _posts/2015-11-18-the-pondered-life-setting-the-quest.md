@@ -1,5 +1,6 @@
 ---
 title: The pondered life - setting the quest
+comments: true
 
 ---
 
