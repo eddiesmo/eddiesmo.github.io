@@ -11,3 +11,5 @@ _site
 /_site/minima.gemspec
 /_site/README.md
 /_site/screenshot.png
+/.sass-cache
+/Gemfile.lock
