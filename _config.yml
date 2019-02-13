@@ -1,8 +1,18 @@
-# theme: jekyll-theme-slate
-# remote_theme: "mmistakes/so-simple-theme"
-title: [Eddie Smolyansky]
-description: [Enjoying life through a rational lense]
-github:
-  is_project_page: [false]
-google_analytics: [UA-134424538-1]
+# Site settings
+title: Eddie Smolyansky blog
+email: 
+description: "Enjoying life through a rational lens"
+# baseurl: ""
+# url: "http://karpathy.github.io"
+# twitter_username: karpathy
+# github_username:  karpathy
 
+# Build settings
+# markdown: kramdown
+# permalink: pretty
+
+# highlighter: rouge
+# kramdown:
+  # input: GFM
+  # auto_ids: true
+  # syntax_highlighter: rouge

@@ -1,30 +1,37 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<main id="main" class="main-content" aria-label="Content">
-  <article>
-    {% include page-image.html %}
-    <div class="page-wrapper">
-      <header class="page-header">
-        {% if page.id %}
-          {% assign title = page.title | markdownify | strip_html %}
-        {% else %}
-          {% assign title = page.title %}
-        {% endif %}
-        {% if page.link %}
-          <h1 id="page-title" class="page-title"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
-        {% else %}
-          <h1 id="page-title" class="page-title">{{ title }}</h1>
-        {% endif %}
-      </header>
-      <div class="page-content">
-        {{ content }}
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+  </header>
 
-        {% if page.share %}
-          {% include social-share.html %}
-        {% endif %}
-      </div>
-    </div>
+  <article class="post-content">
+  {{ content }}
   </article>
-</main>
+
+  <!-- disqus comments -->
+ {% if page.comments %}
+ <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'karpathyblog'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  {% endif %}
+  
+</div>
+
+<!-- mathjax -->
+{% if page.mathjax %}
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
