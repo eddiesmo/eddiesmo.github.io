@@ -1,6 +1,6 @@
 title: Eddie Smolyansky Blog
 # author: GitHub User
-email: eddiesmo@gmail.com
+email: eddiesmo AT gmail
 description: > # this means to ignore newlines until "twitter_username:"
   Enjoying life through a rational lens.
 
@@ -17,10 +17,10 @@ minima:
     github:  eddiesmo
     rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: https://www.facebook.com/eddiesmo
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: https://www.linkedin.com/in/eddiesmo
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pondered life - setting the quest
-comments: true
+comments: false
 
 ---
 
