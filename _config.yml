@@ -3,16 +3,16 @@ title: Eddie Smolyansky blog
 email: 
 description: "Enjoying life through a rational lens."
 # baseurl: ""
-# url: "http://karpathy.github.io"
+url: "https://eddiesmo.github.io"
 # twitter_username: karpathy
-# github_username:  karpathy
+github_username:  eddiesmo
 
 # Build settings
-# markdown: kramdown
-# permalink: pretty
+markdown: kramdown
+permalink: pretty
 
-# highlighter: rouge
-# kramdown:
-  # input: GFM
-  # auto_ids: true
-  # syntax_highlighter: rouge
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
