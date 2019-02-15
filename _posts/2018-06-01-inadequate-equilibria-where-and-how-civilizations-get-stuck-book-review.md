@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inadequate Equilibria - Where and How Civilizations Get Stuck [book review]
+title: Inadequate Equilibria - Where and How Civilizations Get Stuck [book summary]
 comments: false
 tags: 
   - book reviews
