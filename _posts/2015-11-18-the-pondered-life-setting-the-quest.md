@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The pondered life - setting the quest
+title: The Pondered Life - Setting the Quest
 comments: false
 categories: 
   - Journal
