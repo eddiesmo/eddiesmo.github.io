@@ -12,7 +12,7 @@ tags:
 
 Eliezer Yudkowsky has a talent for teaching rationality, economics and decision theory concepts in an accessible manner and usually his writing helps transform unformed thoughts into proper labels and names, thus enabling new modes of thinking.
 
-The concepts I’ve taken from this book [the descriptions below are probably hard to understand without reading the actual book]:
+Below are the concepts I’ve taken from this book (might be hard to understand without reading the book):
 
 
 #### Efficiency, inexploitability, inadequacy:
