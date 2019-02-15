@@ -13,3 +13,4 @@ _site
 /_site/screenshot.png
 /.sass-cache
 /Gemfile.lock
+/Gemfile
