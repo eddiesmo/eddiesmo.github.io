@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pondered life - setting the quest
-comments: false
+comments: true
 
 ---
 
@@ -21,7 +21,7 @@ The unconsidered life is without thought or direction. It is heavily dependent o
 
 I picture a man in a boat, without a map. He doesn’t know where he is, nor where he is going. He is lost, aimless, and will arrive wherever the current takes him. Should fortune smile upon him, his ride will be enjoyable and his destination worthwhile. However, it could just as easily not be the case and he, in fact, lacks the tools to even make the distinction.
 
-> Alice: Which way should I go? <br/>
+> "Alice: Which way should I go? <br/>
 > Cat: That depends on where you are going. <br/>
 > Alice: I don’t know. <br/>
 > Cat: Then it doesn’t matter which way you go.” <br/>
