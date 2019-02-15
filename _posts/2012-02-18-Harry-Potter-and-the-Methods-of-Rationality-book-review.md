@@ -29,5 +29,5 @@ From the get-go, different decisions create chains of cause and effect that send
 
 As the story progressed, I found myself engrossed in the plot, invested in the characters and generally unable to put the book down. It is not flawless and at times Eliezer’s inexperience as a novel writer shows, but overall this is as good as it gets. Come for the premise, stay for the story and along the way let the message of rationality rub off and enlighten you. I’ve rarely been as inspired to study, as in love with science or as driven to succeed as when I’ve read this book.
 
-[Posted on goodreads in 2011 by a younger, very impressionable Eddie. Still one of the most influential books I’ve read and the one that started me on the Rationality path.]
+[Posted on goodreads in 2012 by a younger, very impressionable Eddie. Still one of the most influential books I’ve read and the one that started me on the Rationality path.]
 
