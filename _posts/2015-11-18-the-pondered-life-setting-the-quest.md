@@ -2,7 +2,7 @@
 layout: post
 title: The Pondered Life - Setting the Quest
 comments: false
-categories: 
+tags: 
   - Journal
 
 ---
