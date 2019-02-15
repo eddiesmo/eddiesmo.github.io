@@ -16,21 +16,23 @@ Below are the concepts I’ve taken from this book (might be hard to understand 
 
 
 #### Efficiency, inexploitability, inadequacy
-  - Efficiency [as in, efficient market]: “Microsoft’s stock price is neither too low nor too high, relative to anything you can possibly know about Microsoft’s stock price.”
-  - Inexploitability [There is an inefficiency but we can’t make money off of it]: “Some houses and housing markets are overpriced, but you can’t make a profit by short-selling them, and you’re unlikely to find any substantially underpriced houses—the market as a whole isn’t rational, but it contains participants who have money and understand housing markets as well as you do.”
-  - Inadequacy [a gap where you can outperform the best current human results]: “Okay, the medical sector is a wildly crazy place where different interventions have orders-of-magnitude differences in cost-effectiveness, but at least there’s no well-known but unused way to save ten thousand lives for just ten dollars each, right? Somebody would have picked up on it! Right?!””
+  - Efficiency [as in, efficient market]: 
+  ``` “Microsoft’s stock price is neither too low nor too high, relative to anything you can possibly know about Microsoft’s stock price.”```
+  - Inexploitability [There is an inefficiency but we can’t make money off of it]: ```“Some houses and housing markets are overpriced, but you can’t make a profit by short-selling them, and you’re unlikely to find any substantially underpriced houses—the market as a whole isn’t rational, but it contains participants who have money and understand housing markets as well as you do."```
+  - Inadequacy [a gap where you can outperform the best current human results]: 
+  ```“Okay, the medical sector is a wildly crazy place where different interventions have orders-of-magnitude differences in cost-effectiveness, but at least there’s no well-known but unused way to save ten thousand lives for just ten dollars each, right? Somebody would have picked up on it! Right?!"```
 
 – Modest epistemology [the point of view Eliezer is refuting in this book]: If there’s really something to improve/discover here, someone would’ve already done it! I’m not smarter/better than others so why assume that I know or can do something other don’t?
 
 #### Moloch’s Toolbox
 
-There’s a toolbox of reusable concepts for analyzing systems I would call “inadequate”—the causes of civilizational failure, some of which correspond to local opportunities to do better yourself. I shall, somewhat arbitrarily, sort these concepts into three larger categories: 
-* Decisionmakers who are not beneficiaries; 
+> There’s a toolbox of reusable concepts for analyzing systems I would call “inadequate”—the causes of civilizational failure, some of which correspond to local opportunities to do better yourself. I shall, somewhat arbitrarily, sort these concepts into three larger categories: 
+> * Decisionmakers who are not beneficiaries; 
 * Asymmetric information; 
 * and above all, Nash equilibria that aren’t even the best Nash equilibrium, let alone Pareto-optimal.
 
 In other words:
--  Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
+> -  Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
 -  Cases where decision-makers can’t reliably learn the information they need to make decisions, even though someone else has that information; and
 -  Systems that are broken in multiple places so that no one actor can make them better, even though, in principle, some magically coordinated action could move to a new stable state.
 
@@ -71,6 +73,6 @@ Whether you’re trying to move past modesty or overcome the Free Energy Fallacy
 
 > Oh, and bet. Bet on everything. Bet real money. It helps a lot with learning.
 
-*First published in https://www.goodreads.com/review/show/2392667145*
+*First published in [https://www.goodreads.com/review/show/2392667145](https://www.goodreads.com/review/show/2392667145).*
 
 
