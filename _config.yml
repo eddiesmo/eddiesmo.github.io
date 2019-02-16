@@ -17,7 +17,8 @@
 # remote_theme: mmistakes/so-simple-theme
 # locale: en-US
 title: "Eddie Smolyansky"
-description: "On purpose, productivity and rationality"
+# description: "On purpose, productivity and rationality"
+description: "Enjoying life through a rational lens"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://eddiesmo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /images/logo-profile.jpeg # path of site logo, e.g. "/images/logo.png"
