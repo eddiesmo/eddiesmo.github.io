@@ -14,8 +14,13 @@
         <div class="site-title animated fadeIn"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
       {% endif %}
       <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
-<!--       <br>
-      <p> <a href="url" style='text-decoration: none;'>Posts</a> &nbsp;&nbsp; <a href="url" style='text-decoration: none;'>Posts2</a> &nbsp;&nbsp; <a href="url" style='text-decoration: none;'>Posts3</a></p>
- -->    {% endunless %}
+      <!-- top navigation links -->
+      <p> 
+        <a href="{{ site.url }}" style='text-decoration: none; color:LIGHTSLATEGRAY;'>Home</a> &nbsp;&nbsp; 
+        <a href="https://medium.com/@eddiesmo" style='text-decoration: none; color:LIGHTSLATEGRAY;'>Medium</a> &nbsp;&nbsp; 
+        <a href="https://eddiestravels.home.blog" style='text-decoration: none; color:LIGHTSLATEGRAY;'>Travel</a> &nbsp;&nbsp; 
+        <a href="{{ site.url }}/about" style='text-decoration: none; color:LIGHTSLATEGRAY;'>About</a>
+      </p>
+    {% endunless %}
   </div>
 </header><!-- /.masthead -->
