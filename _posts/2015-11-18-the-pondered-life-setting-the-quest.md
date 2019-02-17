@@ -2,6 +2,7 @@
 layout: post
 title: The Pondered Life - Setting the Quest
 comments: false
+excerpt: "It is a universal trait, I believe, to reflect and evaluate. We strive to do so in our jobs, in our schools, and at least once a year on holidays. But do we do it enough where it really counts? Do we examine the big, important things? It is my observation that most of us lose sight of the forest for the trees."
 tags: 
   - Journal
 
