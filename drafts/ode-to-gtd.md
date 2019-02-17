@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing Getting Things Done (GTD) implementations in Evernote, Todoist, NirvanaHQ, FacileThings and more
-comments: true
+comments: false
 excerpt: "When I started using GTD, the best implementation that I have found was in Evernote. It was called “The secret weapon” and it worked well - I’ve used and refined it for years, until last year I finally decided it’s time to switch. Surely a better implementation must exist by now."
 tags:
   - getting things done
