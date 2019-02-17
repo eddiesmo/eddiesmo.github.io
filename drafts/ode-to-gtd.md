@@ -150,6 +150,7 @@ Nirvana Finds a great balance between true GTD implementation and a light, well 
 1. No integrations with other services such as calendar.
 1. No support for attachments of any kind. This service is only text-based for now.
 1. Repeating tasks do not support countdown from the time your finished the previous iteration of the task.
+1. Task capturing on mobile is weak (requires opening the app and then a long press on "+"). This can be solved by adding an IFTTT note widget which sends an email to my Nirvana inbox.
 
 
 
