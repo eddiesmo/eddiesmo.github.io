@@ -8,9 +8,8 @@ tags:
 
 ---
 
-What is GTD?
+If you're unfamiliar with Getting Things Done, I strongly urge you to go read the book, it's a life changer. I do not intend to repeat the contents here, but I will include some nice variable-length summaries I've found and enjoyed:
 
-If you're unfamiliar with Getting Things Done, I strongly urge you to go read the book. I do not intend to repeat the message here, so as a preview here are some nice variable length summaries from around the web:
 - GTD in 15 minutes
 - YouTube animated book summary [8 min]
 - Wiki book summary
@@ -19,8 +18,10 @@ If you're unfamiliar with Getting Things Done, I strongly urge you to go read th
 # Introduction
 
 Getting Things Done is one of those very rare books that changed my life.
-Before reading it in 2014 I considered myself a smart and driven person, but also unreliable, irresponsible and chaotic. I would pick up and drop projects on a whim, forget tasks I promised to do, be late to everything and generally felt unproductive and stressed. The trust between present-me and future me was at very low levels.
-GTD isn't a perfect book (I gave it a 4/5 on Goodreads), but the abstract concepts behind it are so powerful that I feel like it gave me superpowers. It also stood the test of time and is still a leading method of personal productivity today. While originally it has been implemented with physical files, folders and papers, it has since been transformed by many of its practitioners to fit the digital age.
+Before reading it in 2014 I considered myself a smart and driven person, but also unreliable, irresponsible and chaotic. I would pick up and drop projects on a whim, forget tasks that I promised to do, arrive late to everything and generally I just felt unproductive and stressed. The trust between present-me and future-me was at pretty low levels.
+
+GTD isn't a perfect book (I gave it a 4/5 on Goodreads), but the abstract concepts behind it are so powerful that I feel like it gave me a superpower. It also stood the test of time and is still a leading method of personal productivity today. While originally it has been implemented with physical files, folders and papers, it has since been transformed by many of its practitioners to fit the digital age.
+
 Back in 2014, the best implementation that I have found was in Evernote. It was called "The secret weapon", and it worked great! I've used and refined it for years, until last year I finally decided it's time to move on - surely a better implementation must exist today?
 After taking a couple of months to try different software solutions, I've settled on using NirvanaHQ. In the next section I explain why.
 
@@ -40,7 +41,9 @@ I've also tried other apps like **AnyDo**, **Wunderlist** and **Remember The Mil
 If you're interested in setting up a GTD implementation for a non GTD-native app like Evernote or Todoist, read on...
 
 # GTD implementation: Two requirements
+
 As far as I'm concerned, to implement GTD you need two things:
+
 Mutually exclusive folders/labels to represent task status:
  [Inbox / Now / Next / Someday-Maybe / Waiting-Delegated / Complete].
 This is trivial: I need to be able to move a task from one status to another and have it erase the previous one automatically (otherwise, when I label something as next I'd have to also remove the label soon).
