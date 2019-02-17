@@ -14,10 +14,10 @@ tags:
 
 If you're unfamiliar with Getting Things Done, I strongly urge you to go read the book, it's a life changer. I do not intend to repeat the contents here, but I will include some nice variable-length summaries I've found and enjoyed:
 
-- [GTD in 15 minutes]()
-- [YouTube animated book summary [8 min]]()
-- [Wiki book summary]()
-- [Lifehacker Primer on GTD]()
+- [GTD in 15 minutes](https://hamberg.no/gtd/)
+- [YouTube animated book summary [8 min]](https://www.youtube.com/watch?v=gCswMsONkwY)
+- [Wiki book summary](http://www.wikisummaries.org/wiki/Getting_Things_Done:_The_Art_of_Stress-Free_Productivity)
+- [Lifehacker Primer on GTD](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)
 
 # Introduction
 
@@ -75,7 +75,7 @@ My first GTD implementation. Used it in 2014-2018 and it completely worked. Clun
 
 #### Implementation
 
-The best implementation of GTD that I've seen for Evernote is [The Secret Weapon](TODO). The only thing I strongly object to is their decision to implement task status as tags, under a .when label (see their setup page).
+The best implementation of GTD that I've seen for Evernote is [The Secret Weapon](https://thesecretweapon.org/). The only thing I strongly object to is their decision to implement task status as tags, under a .when label (see their setup page).
 In Evernote, I think task status must be implemented using the notebooks, since they are the only mutually exclusive kind of tag (reasoning given above).
 Below is a screenshot of my own setup which has worked for me for years. Note the separation of work and life into two notebook stacks. Task status switches are very easy to manage.
 
