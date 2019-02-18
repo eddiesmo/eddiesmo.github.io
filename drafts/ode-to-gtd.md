@@ -63,7 +63,7 @@ This is trivial: I need to be able to move a task from one status to another and
 If you can make these two requirements work, you've got yourself a basic GTD system and the rest is details (though I admit, sometimes very important).
 
 Further considerations:
-- Easy seperate work and life tasks
+- Easy separate work and life tasks
 - Have useful reminders that pop up at the right time, in the right context
 - Integrations with other services (such as your calendar)
 - Great UX and a snappy multi-platform experience. 
@@ -86,13 +86,13 @@ Below is a screenshot of my own setup which has worked for me for years. Note th
 
 #### Pros
 1. Super easy to capture tasks, ideas and information. Evernote implemented a great capturing tool on android by creating a 1-click widget to capture text, photos or voice. Everything goes into the inbox to be processed later.
-2. Extremely flexible. Using notebooks and tags you can set up your system any way that you want. Tags have inifinite hirearchy.
+2. Extremely flexible. Using notebooks and tags you can set up your system any way that you want. Tags have infinite hierarchy.
 
 #### Cons
 1. Not GTD-native. By that I mean that while Evernote is versatile enough to implement GTD, it wasn't built with GTD first in mind. The result is a somewhat clunky daily experience. For example:
   - Tasks are just Evernote notes, which don't have standard task properties like energy levels, time estimation or the ability to "tick" a box when done in a satisfying manner.
   - Reminders in Evernote are weak and it is hard to define and properly follow self-imposed due dates.
-2. Two GTD notebook stacks are required to separate work and life tasks. Or at least that's the best seperation that I could think of.
+2. Two GTD notebook stacks are required to separate work and life tasks. Or at least that's the best separation that I could think of.
 
 
 
@@ -128,7 +128,7 @@ Naturally I setup the other task-status the same way.
 
 #### Pros
 1. Full of integrations with other services
-1. A very smooth experiene both on web and mobile
+1. A very smooth experience both on web and mobile
 1. Powerful reminders and repeating tasks
 
 #### Cons 
@@ -143,7 +143,7 @@ Nirvana Finds a great balance between true GTD implementation and a light, well 
 #### Pros
 1. GTD-native. Easy to manipulate and process the tasks.
 1. Intuitive UX and a smooth experience across web and mobile.
-1. Using *Areas*, very easy to seperate work and life tasks.
+1. Using *Areas*, very easy to separate work and life tasks.
 1. Overall, strikes a great balance between GTD purity and great UX.
 
 #### Cons
