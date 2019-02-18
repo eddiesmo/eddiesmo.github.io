@@ -24,7 +24,7 @@ If you're unfamiliar with Getting Things Done, I strongly urge you to go read th
 Getting Things Done is one of those very rare books that *changed my life*.
 Before reading it in 2014 I considered myself a smart and driven person, but also unreliable, irresponsible and chaotic. I would pick up and drop projects on a whim, forget tasks that I promised to do, arrive late to everything and generally I just felt unproductive and stressed. The trust between present-me and future-me was at pretty low levels.
 
-It's not a perfect book (I gave it a 4/5 on Goodreads), but the abstract concepts behind it are so powerful that I feel like it gave me a superpower. Having been published almost 20 years ago it is still the leading method of personal productivity that I'm aware of. While originally it has been implemented with physical files, folders and papers, it has since been transformed by many practitioners to accommodate to the digital age.
+It's not a perfect book (I gave it a 4/5 on Goodreads), but the abstract concepts behind it are so powerful that I feel like it gave me a superpower. Having been published almost 20 years ago it is still the leading method of personal productivity that I'm aware of. While originally it was implemented with physical files, folders and papers, it has since been transformed by many practitioners to accommodate to the digital age.
 
 When I started using GTD, the best implementation that I have found was in Evernote. It was called “The secret weapon” and it worked well - I’ve used and refined it for years, until last year I finally decided it’s time to switch. Surely a better implementation must exist by now.
 
