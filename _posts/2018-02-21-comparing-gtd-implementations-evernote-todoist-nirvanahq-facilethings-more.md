@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing Getting Things Done (GTD) implementations in Evernote, Todoist, NirvanaHQ, FacileThings and more
+title: Comparing Getting Things Done (GTD) Implementations in Evernote, Todoist, NirvanaHQ, FacileThings and more
 comments: false
 excerpt: "When I started using GTD, the best implementation I found was in Evernote. It was called “The secret weapon” and it worked well - I’ve used and refined it for years, until last year I finally decided it’s time to switch. Surely a better implementation must exist by now."
 tags:
@@ -60,7 +60,7 @@ This is trivial: I need to be able to move a task from one status to another and
 - *Where:* places where you're likely to do tasks.
 - *Who:* separate tags for people you frequently work with or delegate tasks to.
 
-The context labels allow me to figure out what to do next that fits my context. For example if I'm driving, need to fill 10 minutes or am in the mood to do something specific.
+The context labels allow me to figure out what to do next that fits my context. For example when I'm driving, need to fill 10 minutes or am in the mood to do something specific.
 
 If you can make these two requirements work, you've got yourself a basic GTD system and the rest is details (which can sometimes still be very important!).
 
