@@ -69,6 +69,9 @@ Further considerations:
 - Integrations with other services (such as your calendar).
 - Great UX and a snappy multi-platform experience. 
 
+> **Side note:** <br/>
+> The minimal implementation of GTD that exists is probably [todo.txt](http://todotxt.org/).
+
 
 
 ### Evernote
