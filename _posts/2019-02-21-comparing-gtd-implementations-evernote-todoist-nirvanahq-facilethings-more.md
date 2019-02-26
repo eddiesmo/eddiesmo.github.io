@@ -178,3 +178,18 @@ One thing I've noticed about FacileThings is that it's a great platform for intr
 1. Not flexible. You can't do shortcuts that are against the pure GTD way. For example: 
 - you can't add a task to the inbox and immediately process it. It goes into a processing queue which means that I only get to fill out the details when I've already left the current context.
 
+## Other GTD apps
+
+Since posting, additional GTD apps have been recommended to me by various readers of this post. I'll try to keep a list of them here:
+
+- Nozbe
+- Everdo
+- GTDNext
+- Skedpal
+
+I've given each of these at least a cursory glance and while some of them are quite nice, my overall recommendations remain the same.
+
+## Further discussion
+
+This post is being discussed on a couple of forums: the [official GTD forums](https://forum.gettingthingsdone.com/threads/comparing-gtd-implementations-in-evernote-todoist-nirvanahq-facilethings-a.15009/) and on [Reddit](https://www.reddit.com/r/gtd/comments/at3vew/comparing_getting_things_done_gtd_implementations/).
+Alternatively, feel free to leave a comment below.
