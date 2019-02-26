@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harry Potter and the Methods of Rationality [book review]
+title: [book review] Harry Potter and the Methods of Rationality
 comments: false
 tags: 
   - book reviews
