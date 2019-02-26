@@ -191,5 +191,5 @@ I've given each of these at least a cursory glance and while some of them are qu
 
 ## Further discussion
 
-This post is being discussed on a couple of forums: the [official GTD forums](https://forum.gettingthingsdone.com/threads/comparing-gtd-implementations-in-evernote-todoist-nirvanahq-facilethings-a.15009/) and on [Reddit](https://www.reddit.com/r/gtd/comments/at3vew/comparing_getting_things_done_gtd_implementations/).
-Alternatively, feel free to leave a comment below.
+Feel free to join the discussion about this post in the [official GTD forums](https://forum.gettingthingsdone.com/threads/comparing-gtd-implementations-in-evernote-todoist-nirvanahq-facilethings-a.15009/) and on [Reddit](https://www.reddit.com/r/gtd/comments/at3vew/comparing_getting_things_done_gtd_implementations/).
+Alternatively, you can leave a comment below.
