@@ -158,6 +158,9 @@ Nirvana Finds a great balance between true GTD implementation and a light, well 
 1. Repeating tasks do not support countdown from the time your finished the previous iteration of the task.
 1. Task capturing on mobile is weak (requires opening the app and then a long press on "+"). This is solved by adding an [IFTTT note widget](https://ifttt.com/applets/DPswmWqz-send-to-nirvana-inbox?term=nirvana) which sends an email to my Nirvana inbox.
 
+> **Note:**
+> I was recently made aware that there is an offline-desktop clone of NirvanaHQ, called [Everdo](https://everdo.net/). After testing it for a few minutes, it is a near-perfect clone, down to exact UI placements. Personally I don't like such blatent copying, but for some of you this might be an alternative to consider.
+
 
 
 ### FacileThings
