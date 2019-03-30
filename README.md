@@ -10,3 +10,4 @@ Changelist:
 - Make the title font in post pages a bit smaller
 - Add my discuss shortname
 - Enable google analytics
+- Add experimental rtl post support
