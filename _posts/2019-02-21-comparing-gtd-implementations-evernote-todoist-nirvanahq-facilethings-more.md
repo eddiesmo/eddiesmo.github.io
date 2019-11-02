@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing Getting Things Done (GTD) Implementations in Evernote, Todoist, NirvanaHQ, FacileThings and more
-comments: true
+comments: false
 excerpt: "When I started practicing GTD, the best implementation I found was in Evernote. I’ve used and refined it for years, until last year I finally decided it’s time to switch. Surely a better implementation must exist by now."
 tags:
   - getting things done
@@ -18,16 +18,19 @@ If you're unfamiliar with Getting Things Done, I strongly urge you to go read th
 - [Wiki book summary](http://www.wikisummaries.org/wiki/Getting_Things_Done:_The_Art_of_Stress-Free_Productivity)
 - [Lifehacker Primer on GTD](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)
 
+It’s not a perfect book (I gave it a [4/5](https://www.goodreads.com/book/show/1633.Getting_Things_Done?from_search=true)), but the abstract concepts behind it are so powerful that in combination they feel like acquiring a superpower.
+
 # Introduction
 
-Getting Things Done is one of those very rare books that *changed my life*.
-Before reading it in 2014 I considered myself a smart and driven person, but also unreliable, irresponsible and chaotic. I would pick up and drop projects on a whim, forget tasks that I promised to do, arrive late to everything and generally I just felt unproductive and stressed. The trust between present-me and future-me was pretty low.
+Getting Things Done is one of those very rare books that *changed my life*. Before reading it in 2014 I considered myself a smart and driven  person, but also unreliable, irresponsible and chaotic. I would pick up  and drop projects on a whim, forget tasks that I promised to do, arrive  late to everything and generally I just felt unproductive and stressed. The trust between present-me and future-me was pretty low.
 
-It's not a perfect book (I gave it a 4/5 on Goodreads), but the abstract concepts behind it are so powerful that I feel like it gave me a superpower. Having been published almost 20 years ago it is still the leading method of personal productivity that I'm aware of. While originally it was implemented with physical files, folders and papers, it has since been transformed by many practitioners to accommodate to the digital age.
+After  several years of practicing the GTD system, I became an objectively more reliable, consistent and productive person. Present-me and  future-me have become great allies and even more importantly I *enjoy* the process of planning and performing my tasks and work.
 
-When I started practicing GTD, the best implementation I found was in Evernote. It was called “The secret weapon” and it worked well - I’ve used and refined it for years, until last year I finally decided it’s time to switch. Surely a better implementation must exist by now.
+The book was published almost 20 years ago and today is still, in my  opinion, the best and most complete personal productivity system out there. While originally it was implemented with physical files, folders and papers, it has since been transformed by many practitioners to accommodate to the digital age.
 
-After taking a couple of months to try different software solutions, I've settled on using **NirvanaHQ**. In the next section I explain why.
+When I started practicing GTD, the best implementation I found was in Evernote. It was called “[The secret weapon](https://thesecretweapon.org)”  and it worked well — I’ve used and refined it for years, until last year I finally decided it’s time to switch. Surely a better  implementation must exist by now.
+
+After taking a couple of months to try different software solutions, I’ve settled on using **NirvanaHQ**. In the next section I explain why.
 
 # Bottom line
 
