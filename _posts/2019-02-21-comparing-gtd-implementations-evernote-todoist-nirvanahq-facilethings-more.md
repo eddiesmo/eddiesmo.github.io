@@ -18,7 +18,7 @@ If you're unfamiliar with Getting Things Done, I strongly urge you to go read th
 - [Wiki book summary](http://www.wikisummaries.org/wiki/Getting_Things_Done:_The_Art_of_Stress-Free_Productivity)
 - [Lifehacker Primer on GTD](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)
 
-It’s not a perfect book (I gave it a [4/5](https://www.goodreads.com/book/show/1633.Getting_Things_Done?from_search=true)), but the abstract concepts behind it are so powerful that in combination they feel like acquiring a superpower.
+It’s not a perfect book (I gave it [★★★★☆](https://www.goodreads.com/review/show/683822116)), but the abstract concepts behind it are so powerful that in combination they feel like acquiring a superpower.
 
 # Introduction
 
