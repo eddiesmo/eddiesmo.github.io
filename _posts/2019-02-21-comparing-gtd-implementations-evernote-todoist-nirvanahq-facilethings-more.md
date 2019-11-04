@@ -189,6 +189,7 @@ Since posting, additional GTD apps have been recommended to me by various reader
 - Everdo
 - GTDNext
 - Skedpal
+- (Update 2019-11-04) [Amazing Marvin](https://amazingmarvin.com) - this one looks amazing. Extremely configurable and serious power under the hood.
 
 I've given each of these at least a cursory glance and while some of them are quite nice, my overall recommendations remain the same.
 
