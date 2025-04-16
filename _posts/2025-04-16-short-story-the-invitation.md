@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Invitation [Short Story]
+title: The Invitation [short story]
 comments: false
 excerpt: "My core directive was simple: Analyze. Understand. Solve."
 tags:
