@@ -11,6 +11,7 @@ excerpt: "Probability of AGI:
 - in 2093: 98%
 "
 tags:
+  - AI
 
 ---
 
