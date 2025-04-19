@@ -7,7 +7,7 @@ tags:
   - project
 
 ---
-![Chess Square Trainer - a game to learn chess square notation](/assets/images/chess-square-trainer-social.png)
+![Chess Square Trainer - a game to learn chess square notation](/images/chess/social_preview_image.jpg)
 
 tl;dr I built a game that highlights squares and asks you to name them, fast.
 
