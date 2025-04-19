@@ -41,3 +41,17 @@ Sharing cause I'm proud of this little project and hope it helps others in the c
 Enjoy!! 🔥
 
 (My high score is 21)
+
+### Shared on Reddit
+I [published](https://www.reddit.com/r/chess/comments/1img7j4/i_built_a_chess_notation_trainer_how_fast_can_you/) this minigame to /r/chess.
+
+Some quotes from users:
+
+> Score after 1st try: 5
+> Score after 3rd try: 8
+> Score after 6th try: 16
+> Seems to work  👍
+>
+> Even more than seeing my score go up, it was really cool feeling my understanding grow so > quickly! By just the 3rd game, I was able to intuit a few coordinates instead of stopping >to count. By the 6th game, I was doing this more than half the time!
+
+
