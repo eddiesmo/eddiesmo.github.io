@@ -1,10 +1,16 @@
 ---
 layout: post
-title: My timelines for AGI, after GPT4 came out.
+title: My timelines for AGI, after GPT4 came out
 comments: false
-# excerpt: "My core directive was simple: Analyze. Understand. Solve."
+excerpt: "Probability of AGI:
+
+- in 2026: 3%
+- in 2033: 30%
+- in 2043: 55%
+- in 2053: 80%
+- in 2093: 98%
+"
 tags:
-  - short story
 
 ---
 
