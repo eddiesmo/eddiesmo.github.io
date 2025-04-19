@@ -7,6 +7,8 @@ tags:
   - project
 
 ---
+![Chess Square Trainer - a game to learn chess square notation](/assets/images/chess-square-trainer-social.png)
+
 tl;dr I built a game that highlights squares and asks you to name them, fast.
 
 Context: this was my "vibe coding" experiment before I knew this term. I used GPTo1 and Cursor+Claude 3.5.
