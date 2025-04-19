@@ -90,7 +90,7 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      share: false
       comments: true
 
 # Site Author
