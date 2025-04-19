@@ -15,6 +15,8 @@ Context: this was my "vibe coding" experiment before I knew this term. I used GP
 
 👉 Play here: [https://chess-square-trainer.eddiesmo.com](https://chess-square-trainer.eddiesmo.com)
 
+My high score is 21 :) 
+
 ### Why?
 
 A basic chess skill is knowing square notation (e4, f6, etc) and I wanted to train it so I can easily follow chess videos and books.
@@ -26,34 +28,26 @@ I wanted to also train the other way - an app that highlights a square and asks 
 I didn't find it, so - I built it!
 
 ### 🎮 Features
-Clean interface with instant feedback, for people who enjoy blitz ;)
+- Clean interface with instant feedback, for people who enjoy blitz ;)
+- Designed for desktop (keyboard!) but works great on mobile
+- Train as White or Black
+- Detailed feedback at the end of rounds
+- Tracks your high scores
 
-Designed for desktop (keyboard!) but works great on mobile
-
-Train as White or Black
-
-Detailed feedback at the end of rounds
-
-Tracks your high scores
-
-I've been playing 10 minutes a day for a few days and I'm already almost 2x better!
-
-Sharing cause I'm proud of this little project and hope it helps others in the community :) Let me know if you have any feedback - I can probably add more features or polish on the weekend.
-
-Enjoy!! 🔥
-
-(My high score is 21)
 
 ### Shared on Reddit
+
 I [published](https://www.reddit.com/r/chess/comments/1img7j4/i_built_a_chess_notation_trainer_how_fast_can_you/) this minigame to /r/chess.
 
-Some quotes from users:
+Quote from a user:
 
 > Score after 1st try: 5
+>
 > Score after 3rd try: 8
 > Score after 6th try: 16
+>
 > Seems to work  👍
 >
-> Even more than seeing my score go up, it was really cool feeling my understanding grow so > quickly! By just the 3rd game, I was able to intuit a few coordinates instead of stopping >to count. By the 6th game, I was doing this more than half the time!
+> Even more than seeing my score go up, it was really cool feeling my understanding grow so quickly! By just the 3rd game, I was able to intuit a few coordinates instead of stopping to count. By the 6th game, I was doing this more than half the time!
 
 
