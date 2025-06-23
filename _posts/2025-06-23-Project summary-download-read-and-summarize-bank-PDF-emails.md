@@ -60,6 +60,10 @@ I tried orchestrating the task with two services: Zapier and n8n. Each had their
 | Setup process | 👍👍 Minutes: no code—just click selectors; files download straight into Google Drive | 👎 Hours: generate server and Puppeteer code via GPT; deploy on Render; debug until working                                                                                        |
 | Limitations   | Limited “actions” (but sufficient for this use case)                                  | Need to maintain the server; Render’s free tier spins down after inactivity causing \~3-minute cold starts, so you must build retry logic (e.g., wait 5 minutes and retry the job) |
 
+
+<iframe src="https://eddiesmo.notion.site/ebd/21bf918b21298061994bc8f77009137f" width="100%" height="600" frameborder="0" allowfullscreen />
+
+
 ### Bugs and issues
 1. In Zapier I got flooded by hundreds of replies to an incoming email from the bank. The reason? Each time my automation replied, it also triggered the automation again.
    1. **Solution:** add a “flood protection” mechanic—e.g. throw an error if more than 10 activations per day. I would expect this to be implemented within Zapier/n8n, but it’s not, so you need to add a node that does that.
