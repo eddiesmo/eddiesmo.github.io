@@ -32,7 +32,7 @@ So we had databases that couldn't think and AI that couldn't remember. Then Clau
 
 The knowledge base is a folder of Markdown files - plain text, future-proof, version-controlled with Git. I use Obsidian to browse and read, and Cursor when editing the AI rules, but the files are just files. Any editor works.
 
-The structure is up to you. Mine has areas of life (health, career, interests), time-bound projects, evergreen notes, and a daily journal that interlinks to everything else. Use whatever system works for you.
+The structure is up to you. Mine has areas of life (health, career, interests), time-bound projects, evergreen notes, and a daily journal that interlinks to everything else. Use whatever system works for you. I've put together a [demo repo](https://github.com/eddiesmo/second-brain-demo) you can clone and adapt.
 
 What makes it a "second brain" rather than a fancy notes folder is a thin layer of instruction files on top. A top-level `CLAUDE.md` tells the AI what the vault is, how it's organized, and what conventions to follow. Deeper `CONTEXT.md` files give it background on specific areas and projects - so it loads only what's relevant, not everything. Rules and skills teach it your workflows: how to write, what to update, when to ask.
 
