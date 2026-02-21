@@ -9,6 +9,8 @@ tags:
 
 ---
 
+tl;dr I built a second brain system that improves over time and almost completely replaces vanilla ChatGPT for me.
+
 I'm a [productivity nerd](https://eddiesmo.com/comparing-gtd-implementations-evernote-todoist-nirvanahq-facilethings-more/). I've been maintaining a personal knowledge base and journal for years, and I've tried all the tools: Notion, Tana, Capacities, Roam Research, Obsidian.
 
 Despite some people [calling](https://fortelabs.com/blog/basboverview/) these systems a "second brain," they were really just elaborate reference systems. I found journaling useful for thinking and tracking my day, but the evolving, interlinked database never paid dividends - it became an afterthought, not well maintained.
@@ -47,9 +49,9 @@ I talk to the AI via Claude CoWork or Claude Code. It operates directly on the r
 1. Creates a to-do list, often searching or researching first
 2. Replies in the chat *and* creates or updates files directly in the vault
 
-**Braindumping on the go.** Using a speech-to-text app like Typeless or WisprFlow, I go for a walk and ramble my thoughts into Claude. It drafts a journal entry, we go back and forth on it, and by the time I'm back at my desk there's a polished entry waiting in the right folder - interlinked to related notes, with my thinking sharpened in a way that feels like I actually worked through the idea.
+**Braindumping on the go.** Using a speech-to-text app like Typeless or WisprFlow, I go for a walk and ramble my thoughts into Claude. It drafts a journal entry, we go back and forth on it, and by the time I'm back at my desk there's an entry mostly in my voice waiting in the journal folder - interlinked to related notes, with my thinking sharpened in a way that feels like I actually worked through the idea.
 
-**Working through hard decisions.** I can throw my most difficult questions at it and be genuinely surprised by the quality. With all the context it loads from the vault - often more than I myself remember - Claude really steps up. It doesn't just have the relevant information for the decision; it also draws on recent journal entries and pulls unexpected connections to my mood, motivation, and other goals. I've been surprised more than once at the kind of insights it surfaces.
+**Working through hard decisions.** I throw my most difficult questions at it and with all the context it loads from the vault - Claude really steps up. It doesn't just have the relevant information for the decision; it also draws on recent journal entries and pulls unexpected connections to my mood, motivation, and other goals. I've been surprised more than once at the kind of insights it surfaces.
 
 ## Open Questions
 
@@ -61,4 +63,5 @@ Some things I'm wondering about:
 - **Multiplayer** - how this extends to team environments and shared knowledge bases
 - **Commercial solutions** - I'm watching how knowledge management products adapt to these new workflows. My concern is lock-in. With AI tools improving daily, I want control over my files and the freedom to use whatever interface comes next.
 
-For now, the system works - and it gets better every time I use it. That's the whole point.
+For now, the system works - and it gets better every time I use it.
+That's the whole point.
