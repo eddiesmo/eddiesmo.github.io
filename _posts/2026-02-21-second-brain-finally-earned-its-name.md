@@ -2,14 +2,14 @@
 layout: post
 title: '"Second Brain" Finally Earned Its Name'
 comments: false
-excerpt: "We had databases that couldn't think and AI that couldn't remember. Then Claude CoWork came out and something clicked."
 tags:
   - AI
   - productivity
 
 ---
 
-tl;dr I built a second brain system that improves over time and almost completely replaces vanilla ChatGPT for me.
+*tl;dr I built a second brain system that improves over time and almost completely replaces vanilla ChatGPT for me.*
+{: .notice}
 
 I'm a [productivity nerd](https://eddiesmo.com/comparing-gtd-implementations-evernote-todoist-nirvanahq-facilethings-more/). I've been maintaining a personal knowledge base and journal for years, and I've tried all the tools: Notion, Tana, Capacities, Roam Research, Obsidian.
 
@@ -64,4 +64,5 @@ Some things I'm wondering about:
 - **Commercial solutions** - I'm watching how knowledge management products adapt to these new workflows. My concern is lock-in. With AI tools improving daily, I want control over my files and the freedom to use whatever interface comes next.
 
 For now, the system works - and it gets better every time I use it.
+
 That's the whole point.
